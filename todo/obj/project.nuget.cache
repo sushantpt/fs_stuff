@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vjYsBrsHzbM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stpt4\\OneDrive\\Desktop\\Fsharp\\todo\\todo.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stpt4\\.nuget\\packages\\fsharp.core\\8.0.401\\fsharp.core.8.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
